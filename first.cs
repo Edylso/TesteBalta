@@ -1,4 +1,4 @@
-public class Teste
+public class First
 {
     public static void Main()
     {
